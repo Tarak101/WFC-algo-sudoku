@@ -24,7 +24,13 @@ The Sudoku Solver is a web application that allows users to solve Sudoku puzzles
 
 ## Installation
 
-1. **Install Dependencies from `requirements.txt`:**
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/Tarak101/WFC-algo-sudoku.git
+   
+   
+2. **Install Dependencies from `requirements.txt`:**
 
    ```bash
    pip install -r requirements.txt
